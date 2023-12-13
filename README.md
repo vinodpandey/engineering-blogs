@@ -245,6 +245,7 @@ Curated collection of engineering blogs by startups, tech companies and enterpri
 - [Bitly](https://word.bitly.com/)
 - [Grafana](https://grafana.com/blog/)
 - [Instacart](https://tech.instacart.com/)
+- [knock](https://knock.app/blog)
 
 ## Individuals
 - [Jason Cohen](https://longform.asmartbear.com/)
