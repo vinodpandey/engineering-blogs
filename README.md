@@ -24,6 +24,7 @@
 ### Companies
 
 #### \# companies
+* 1mg https://medium.com/1mgofficial/all
 * 8th Light https://8thlight.com/blog/
 
 #### A companies
@@ -31,6 +32,8 @@
 * Advanced Web Machinery https://advancedweb.hu/
 * Airbnb https://medium.com/airbnb-engineering
 * Algolia https://blog.algolia.com/
+* Amagi https://medium.com/amagi-engineering
+* Apna https://medium.com/apna-technology-blog
 * Appnexus https://techblog.appnexus.com/
 * Arkency http://blog.arkency.com/
 * Artsy http://artsy.github.io/
@@ -49,8 +52,13 @@
 * Bazaarvoice https://blog.developer.bazaarvoice.com/
 * BBC https://medium.com/bbc-design-engineering/
 * Benchling https://benchling.engineering/
+* BharatPe https://engineering.bharatpe.com/
+* Bigbasket https://tech.bigbasket.com/
 * Bigcommerce http://www.bigeng.io/
+* Bitly https://word.bitly.com/
 * Blender https://code.blender.org/
+* Blinkit https://blinkit.com/blog/
+* Blinkit https://lambda.blinkit.com/
 * Booking.com https://blog.booking.com/
 * Brandwatch http://engineering.brandwatch.com/
 
@@ -66,6 +74,7 @@
 * Codeship https://blog.codeship.com/
 * Commercetools https://techblog.commercetools.com/
 * Confluent https://www.confluent.io/blog
+* Cred https://engineering.cred.club/
 * Credit Karma https://engineering.creditkarma.com/
 * Criteo https://medium.com/criteo-labs
 * Crowdfire https://crowdfire.engineering/
@@ -79,8 +88,11 @@
 * Discord https://blog.discordapp.com/
 * Docker https://blog.docker.com/
 * DoorDash https://doordash.engineering/blog/
+* Dream11 https://blog.dream11engineering.com/all
 * Drivy https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
+* Dropbox https://dropbox.tech/
+* Dunzo https://medium.com/dunzo/all?topic=engineering
 
 #### E companies
 * Ebay https://www.ebayinc.com/stories/blogs/tech/
@@ -101,7 +113,9 @@
 * Findmypast http://tech.findmypast.com/
 * Finn.no http://tech.finn.no/
 * Flickr http://code.flickr.net/
+* Flipkart https://blog.flipkart.tech/
 * Freeletics https://freeletics.engineering/
+* Freshworks https://medium.com/freshworks-engineering-blog
 * Fynd http://gofynd.io/blog
 
 #### G companies
@@ -117,6 +131,7 @@
 * Graphcool https://blog.graph.cool/
 * Grofers https://lambda.grofers.com/
 * Groupon https://engineering.groupon.com/
+* Groww https://tech.groww.in/
 * Guardian https://www.theguardian.com/info/developer-blog
 * Gusto http://engineering.gusto.com/
 
@@ -156,6 +171,7 @@
 * Kolosek https://kolosek.com/blog/
 
 #### L companies
+* Licious https://tech.licious.com/subpage/747f00b75092
 * LINE https://engineering.linecorp.com/en/blog
 * LinkedIn https://engineering.linkedin.com/blog
 * LiveRamp https://liveramp.com/engineering/
@@ -164,6 +180,7 @@
 
 #### M companies
 * Made Tech https://www.madetech.com/blog
+* MakeMyTrip https://tech.makemytrip.com/
 * MapTiler https://www.maptiler.com/blog/
 * Medallia http://engineering.medallia.com/blog/
 * Medium https://medium.com/medium-eng
@@ -196,10 +213,13 @@
 * Panorama Education http://engineering.panoramaed.com/
 * Paperless Post https://www.paperlesspost.com/blog/teams/tech/
 * Paypal https://www.paypal-engineering.com/
+* Paytm https://paytm.com/blog/engineering/
+* PhysicsWallah https://engineering-at-physics-wallah.medium.com/
 * PicCollage https://tech.pic-collage.com/
 * Pinterest https://medium.com/@Pinterest_Engineering
 * Pluralsight https://www.pluralsight.com/guides
 * Postman https://medium.com/better-practices
+* Postman https://blog.postman.com/
 * Postmark https://postmarkapp.com/blog
 * Prezi https://medium.com/prezi-engineering
 * Prolific Interactive http://blog.prolificinteractive.com/category/development/
@@ -207,9 +227,11 @@
 * PullReview http://blog.8thcolor.com/
 
 #### Q companies
+* Quizizz https://eng.quizizz.com/
 * Quora https://engineering.quora.com/
 
 #### R companies
+* Razorpay https://engineering.razorpay.com/
 * REA Group https://www.rea-group.com/category/tech/
 * Remind http://engineering.remind.com/
 * RetailMeNot https://medium.com/retailmenot-engineering/
@@ -237,6 +259,7 @@
 * SourceClear https://blog.sourceclear.com/
 * Speedledger http://engineering.speedledger.com/
 * Spotify https://labs.spotify.com/
+* Spotify https://engineering.atspotify.com/
 * Sqreen https://blog.sqreen.io/
 * Square https://corner.squareup.com/
 * Squarespace https://engineering.squarespace.com/
@@ -245,10 +268,12 @@
 * Stitch Fix http://multithreaded.stitchfix.com/blog/
 * Strava https://medium.com/strava-engineering/
 * Stripe https://stripe.com/blog
+* Stripe https://stripe.dev/blog/topic/engineering
 * SurveyMonkey https://engineering.surveymonkey.com/
 * Swiggy https://bytes.swiggy.com/
 
 #### T companies
+* Tailscale https://tailscale.com/blog?category=Product&page=1&search=
 * Takipi http://blog.takipi.com/
 * Target https://target.github.io/
 * Teamwork https://engineroom.teamwork.com/
